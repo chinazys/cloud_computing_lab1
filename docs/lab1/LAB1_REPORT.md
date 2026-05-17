@@ -12,8 +12,9 @@
 current_user = todouser
 current_database = tododb
 
-Скріншот локально працюючої системи:
-![Скріншот локально працюючої системи](lab1-running-app-ui.png)
+### Скріншот: локально працююча система
+
+![Локально працююча система](lab1-running-app-ui.png)
 
 ## 2. Дослідження архітектури
 
@@ -129,8 +130,9 @@ content-type: application/json
 []
 ```
 
-Скріншот вкладки Network з деталями запиту:
-![Скріншот вкладки Network з деталями запиту](lab1-network-request-details.png)
+### Скріншот: Network з деталями запиту
+
+![Network з деталями запиту](lab1-network-request-details.png)
 
 ### 3.1.
 
